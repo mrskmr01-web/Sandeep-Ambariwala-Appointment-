@@ -37,8 +37,7 @@ import {
   TrendingUp
 } from 'lucide-react';
 
-// Sandeep's profile headshot string path
-const sandeepProfile = "/src/assets/images/regenerated_image_1782332560037.png";
+import sandeepProfile from './assets/images/regenerated_image_1782332560037.png';
 
 // Pre-defined convenient time slots from 06:00 AM to 06:00 PM with 30-minute intervals
 const START_TIME_OPTIONS = [
@@ -1711,7 +1710,7 @@ Please confirm my appointment.`;
         </div>
         
         <div className="border-t border-slate-100 pt-4 text-[10px] text-slate-400 max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
-          <span>© 2026 Sandeep Ambariwala. All rights reserved.</span>
+          <span>© 2026 Sandeep Ambariwala. All Rights Reserved.</span>
           <span className="flex items-center gap-1 font-medium">
             Verified server-free client encryption
           </span>
