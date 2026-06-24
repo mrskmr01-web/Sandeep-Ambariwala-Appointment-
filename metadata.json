@@ -1,0 +1,6 @@
+{
+  "name": "Sandeep Ambariwala",
+  "description": "Premium, mobile-friendly appointment booking portal for Sandeep Ambariwala with direct WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
